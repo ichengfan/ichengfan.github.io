@@ -3,10 +3,10 @@
 https://ichengfan.github.io/
 
 
-Fan Cheng, Dr.
+Fan Cheng (程帆)
 
-Department of CSE
+Department of Computer Science and  Engineering
 
-Shanghai Jiao Tong Univ.
+Shanghai Jiao Tong University
 
 https://www.cs.sjtu.edu.cn/~chengfan
