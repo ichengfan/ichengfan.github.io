@@ -2,11 +2,10 @@
 
 https://ichengfan.github.io/
 
-
 Fan Cheng (程帆)
 
-Department of Computer Science and  Engineering
+School of Cryptology
 
-Shanghai Jiao Tong University
+East China Normal University
 
-https://www.cs.sjtu.edu.cn/~chengfan
+(I have moved from SJTU to ECNU this summer :)
