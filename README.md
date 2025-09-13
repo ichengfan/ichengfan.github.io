@@ -8,4 +8,4 @@ School of Cryptology
 
 East China Normal University
 
-(I have moved from SJTU to ECNU this summer :)
+(I moved from SJTU to ECNU in the summer of 2025 :)
